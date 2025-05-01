@@ -58,7 +58,7 @@ This work is **part of the final year B.Tech Project Submission** for Rajiv Gand
 
 ---
 
-## 🚀 Live Demonstration (Optional if you have a deployed version)
+## 🚀 Live Demonstration 
 > [Visit Samastha IELTS Platform](https://www.samasthabroad.com)
 
 ---
